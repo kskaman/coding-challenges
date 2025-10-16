@@ -21,7 +21,7 @@ A raw byte is the smallest unit of data in a file, represented as 8 bits. It is 
 
 #### 2. **Unicode code points and UTF-8 Encoding**
 
-- `Uncode code point` : A Unicode code point is a unique number assigned to each character in the Unicode standard. It represents a single character, which may be encoded in one or more bytes in UTF-8.
+- `Unicode code point` : A Unicode code point is a unique number assigned to each character in the Unicode standard. It represents a single character, which may be encoded in one or more bytes in UTF-8.
 
 - `UTF-8 Encoding`: Before UTF-8, different systems used various encoding schemes (like ASCII, ISO-8859, etc.), which caused compatibility issues when sharing text across platforms or languages. Unicode was introduced to unify all characters into a single standard.
   UTF-8 encodes characters using 8-bit units (bytes):
