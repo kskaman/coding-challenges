@@ -145,3 +145,13 @@ Tokens:
 #### 2. Syntax Analysis (Parsing)
 
 The parser takes these tokens and arranges them according to the **JSON grammar** to produce a structured result - for example, a nested map or object tree.
+
+Using the tokens from above, it builds a structure like:
+
+```txt
+object
+  |
+  +-- "name": "Alice"
+  |
+  +-- "age": 30
+```
