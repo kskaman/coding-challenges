@@ -42,7 +42,7 @@ In this challenge, you will build a simple JSON parser from scratch. The goal is
 #### c++
 
 - open folder containing c++ files in terminal
-- run command: `sh build.sh` to compile the code
+- run command: `g++ -std=c++14 -Wall -Wextra -O2 -o json_parser main.cpp json_parser.cpp` to compile the code
 - run command: `./json_parser <path_to_json_file>`
 
 ## Test Files
