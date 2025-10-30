@@ -49,7 +49,7 @@ Thus, based on current token identified by lexer, parser constructors appropriat
 
 ### What Does It Do?
 
-The lexer reads JSON text **character by character** and tags them to meaningful **tokens** (defined as per context).
+The lexer reads JSON text **character by character** and tags them to meaningful **tokens** (defined as per context) and extracts those tokens.
 
 **Example:**
 
