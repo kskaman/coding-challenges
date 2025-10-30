@@ -4,6 +4,10 @@ In this challenge, you will build a simple JSON parser from scratch. The goal is
 
 **Challenge Link :** [Build Your JSON Parser Challenge](https://codingchallenges.fyi/challenges/challenge-json-parser)
 
+## References
+
+- [Medium Article - Building my own JSON Parser - by Saumya Bakshi](https://sbmusing.medium.com/building-my-own-json-parser-a337500e29a1) - python implementation of a JSON parser from scratch.
+
 ## Folder Structure
 
 ```
