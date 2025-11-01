@@ -3,3 +3,10 @@
 
 # Ignore all executable files
 *.exe
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore build artifacts
+*.egg-info/
