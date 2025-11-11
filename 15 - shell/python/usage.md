@@ -38,6 +38,11 @@ python -m pip install --editable .
 This allows you to install the package in editable mode, so any changes you make to the code will be reflected without needing to reinstall.
 
 6. You can now run the Python shell by executing:
+
    ```bash
    ./ccsh
+   ```
+
+   ```cmd
+   ccsh
    ```
